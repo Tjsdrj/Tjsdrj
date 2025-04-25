@@ -1,7 +1,7 @@
 
 ![贪吃蛇](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:Tjsdrj?theme=rule34">
 
 ## 前端工程师—天平
 
