@@ -29,7 +29,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?usernameTjsdrj&repo=mp4To4K-rust)](https://github.com/Tjsdrj/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Tjsdrj&repo=mp4To4K-rust)]([https://github.com/Tjsdrj/mp4To4K-rust](https://github.com/Tjsdrj/The-8-GT-Crafting-Code-Of-Minecraft))
 <br><br><br>
 
 ### Github 活跃度
