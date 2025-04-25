@@ -34,8 +34,9 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?usernameTjsdrj&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Tjsdrj's github stats](https://github-readme-stats.vercel.app/api?usernameTjsdrj&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=Tjsdrj&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Tjsdrj's github stats](https://github-readme-stats.vercel.app/api?username=Tjsdrj&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameTjsdrj&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?usernameTjsdrj&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjsdrj&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjsdrj&layout=compact&langs_count=6)
+
