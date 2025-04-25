@@ -29,13 +29,13 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?usernameTjsdrj&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?usernameTjsdrj&repo=mp4To4K-rust)](https://github.com/Tjsdrj/mp4To4K-rust)
 <br><br><br>
 
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?usernameTjsdrj&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?usernameTjsdrj&show_icons=true&theme=vue)
+![Tjsdrj's github stats](https://github-readme-stats.vercel.app/api?usernameTjsdrj&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameTjsdrj&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?usernameTjsdrj&layout=compact&langs_count=6)
