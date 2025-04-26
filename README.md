@@ -38,3 +38,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjsdrj&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tjsdrj&layout=compact&langs_count=6)
 
+
+<!-- 感谢访问，颜色中国色取值（碧清：#5cb3cc）：http://zhongguose.com/ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
