@@ -1,6 +1,6 @@
 
 ![贪吃蛇](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-![hi](img/hi.svg)
+![hi](images/hi.svg)
 <img align="right" src="https://count.getloli.com/get/@:Tjsdrj?theme=rule34">
 
 ## 前端工程师—天平
